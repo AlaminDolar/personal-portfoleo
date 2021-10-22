@@ -1,0 +1,68 @@
+[
+    {
+        "name": "C++ Programming",
+        "about": "C++ is a general-purpose programming language and widely used nowadays for competitive programming. It has imperative, object-oriented and generic programming features.",
+        "duration": "45",
+        "price": 2500,
+        "display": true,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_68.jpg"
+    },
+    {
+        "name": "Java Advanced",
+        "about": "Already know that normal applications can easily built using core Java concepts. But, when it comes to developing web applications, advanced Java fundamentals, like JSP, Servlets, JDBC etc.",
+        "duration": "43",
+        "price": 3000,
+        "display": true,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_85.jpg"
+    },
+    {
+        "name": "Data With Python",
+        "about": "This Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own.",
+        "duration": "40",
+        "price": 2700,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_91.jpg"
+    },
+    {
+        "name": "C Programming",
+        "about": "C programming language has following importances: C is robust language and has rich set of built-in functions, data types and operators which can be used to write any complex program.",
+        "duration": "38",
+        "price": 2500,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_73.jpg"
+    },
+    {
+        "name": "Python Beginners",
+        "about": "Python has syntax that allows developers to write programs with fewer lines than some other programming languages. Python runs on an interpreter system, meaning that code can be executed.",
+        "duration": "36",
+        "price": 2600,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_102.jpg"
+    },
+    {
+        "name": "Django Course",
+        "about": "Django is a rapid web development framework that can be used to develop fully fleshed web applications in a short period of time. It's very easy to switch database in Django framework.",
+        "duration": "40",
+        "price": 3500,
+        "display": true,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_109.jpg"
+    },
+    {
+        "name": "Computer Vison",
+        "about": "Machine learning is used in computer vision in the interpretation stage. Relatively, machine learning is the broader field, and evident in the algorithms that can be applied to other fields.",
+        "duration": "39",
+        "price": 3200,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/course_thumbnail_default_126.jpg"
+    },
+    {
+        "name": "React Course",
+        "about": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components",
+        "duration": "41",
+        "price": 3000,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/react.jpg"
+    },
+    {
+        "name": "Javascript Course",
+        "about": "JavaScript is a programming language that adds interactivity to your website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms.",
+        "duration": "44",
+        "price": 2500,
+        "img": "https://clever-bassi-a3ddb1.netlify.app/js.png"
+    }
+]
